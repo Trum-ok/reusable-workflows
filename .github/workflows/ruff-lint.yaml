@@ -11,7 +11,7 @@ on:
         default: '3.13.3'
       ruff-version:
         type: string
-        default: '0.11.8'
+        default: '0.11.9'
 
 jobs:
   ruff:
